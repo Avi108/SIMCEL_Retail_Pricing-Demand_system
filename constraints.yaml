@@ -1,0 +1,11 @@
+price_bounds:
+  min_multiplier: 0.7
+  max_multiplier: 1.2
+
+promotional_limits:
+  max_promo_days_per_month: 8
+
+assumed_costs:
+  SKU001: 5.0
+  SKU002: 8.0
+  SKU003: 12.0
